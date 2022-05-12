@@ -1,0 +1,15 @@
+C:\Users\carlos.sanchez\Documents\Carlos Eduardo Sanchez Montoya\Pruebas Amazon\PracticasAmazon\PracticasAmazon\bin\Debug\PracticasAmazon.exe.config
+C:\Users\carlos.sanchez\Documents\Carlos Eduardo Sanchez Montoya\Pruebas Amazon\PracticasAmazon\PracticasAmazon\bin\Debug\PracticasAmazon.exe
+C:\Users\carlos.sanchez\Documents\Carlos Eduardo Sanchez Montoya\Pruebas Amazon\PracticasAmazon\PracticasAmazon\bin\Debug\PracticasAmazon.pdb
+C:\Users\carlos.sanchez\Documents\Carlos Eduardo Sanchez Montoya\Pruebas Amazon\PracticasAmazon\PracticasAmazon\bin\Debug\nunit.framework.dll
+C:\Users\carlos.sanchez\Documents\Carlos Eduardo Sanchez Montoya\Pruebas Amazon\PracticasAmazon\PracticasAmazon\bin\Debug\nunit.framework.xml
+C:\Users\carlos.sanchez\Documents\Carlos Eduardo Sanchez Montoya\Pruebas Amazon\PracticasAmazon\PracticasAmazon\obj\Debug\PracticasAmazon.exe
+C:\Users\carlos.sanchez\Documents\Carlos Eduardo Sanchez Montoya\Pruebas Amazon\PracticasAmazon\PracticasAmazon\obj\Debug\PracticasAmazon.pdb
+C:\Users\carlos.sanchez\Documents\Carlos Eduardo Sanchez Montoya\Pruebas Amazon\PracticasAmazon_carlos\PracticasAmazon\bin\Debug\PracticasAmazon.exe.config
+C:\Users\carlos.sanchez\Documents\Carlos Eduardo Sanchez Montoya\Pruebas Amazon\PracticasAmazon_carlos\PracticasAmazon\obj\Debug\PracticasAmazon.exe
+C:\Users\carlos.sanchez\Documents\Carlos Eduardo Sanchez Montoya\Pruebas Amazon\PracticasAmazon_carlos\PracticasAmazon\obj\Debug\PracticasAmazon.pdb
+C:\Users\carlos.sanchez\Documents\Carlos Eduardo Sanchez Montoya\Pruebas Amazon\PracticasAmazon_carlos\PracticasAmazon\bin\Debug\PracticasAmazon.exe
+C:\Users\carlos.sanchez\Documents\Carlos Eduardo Sanchez Montoya\Pruebas Amazon\PracticasAmazon_carlos\PracticasAmazon\bin\Debug\PracticasAmazon.pdb
+C:\Users\carlos.sanchez\Documents\Carlos Eduardo Sanchez Montoya\Pruebas Amazon\PracticasAmazon_carlos\PracticasAmazon\bin\Debug\nunit.framework.dll
+C:\Users\carlos.sanchez\Documents\Carlos Eduardo Sanchez Montoya\Pruebas Amazon\PracticasAmazon_carlos\PracticasAmazon\bin\Debug\nunit.framework.xml
+C:\Users\carlos.sanchez\Documents\Carlos Eduardo Sanchez Montoya\Pruebas Amazon\PracticasAmazon_carlos\PracticasAmazon\obj\Debug\PracticasAmazon.csprojResolveAssemblyReference.cache
